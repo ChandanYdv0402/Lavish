@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      "install-all": "cd backend && yarn install && cd ../client && yarn install",
+      "build-all": "cd client && yarn build",
+      "start-all": "cd backend && yarn start"
+    }
+  }
+  
